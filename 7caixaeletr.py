@@ -1,6 +1,5 @@
 #                                        Task 07: Caixa eletrônico
-# Receba um valor de saque e informe a quantidade de notas de 100, 50, 20 e 10, 5 e 2 e moedas de 1 real (hardcore: 50, 25, 10 e 5 centavos) necessárias. Pratique: divisão inteira, resto e condicionais.
-# Regras: não aceitar valores menores que 10 e informar quando o valor não puder ser sacado.
+# Receba um valor de saque e informe a quantidade de notas de 100, 50, 20 e 10, 5 e 2 e moedas de 1 real (hardcore: 50, 25, 10 e 5 centavos) necessárias. Pratique: divisão inteira, resto e condicionais
 print("Caixa Eletrônico\n")
 
 notas = [100, 50, 20, 10, 5, 2, 1, 0.5, 0.25, 0.1, 0.05, 0.01]
